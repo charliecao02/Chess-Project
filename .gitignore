@@ -1,0 +1,5 @@
+.vscode/
+chess.exe
+chess
+*.d
+*.o
